@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="29c787e7-9d78-4427-af5b-6f22aff489d5" name="Changes" comment="Task_02 on SDET Club">
+    <list default="true" id="29c787e7-9d78-4427-af5b-6f22aff489d5" name="Changes" comment="Multiple Loop (If and Else)">
+      <change afterPath="$PROJECT_DIR$/Python_Lab/Triangle_Task.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Lab/leap_year.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Lab/Lab_001.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Lab/Lab_001.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +52,8 @@
     "Python.Lab_001.executor": "Run",
     "Python.Lab_002.executor": "Run",
     "Python.Task_02.executor": "Run",
+    "Python.Triangle_Task.executor": "Run",
+    "Python.leap_year.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "settings.editor.selected.configurable": "preferences.pluginManager"
@@ -104,13 +107,22 @@
       <option name="project" value="LOCAL" />
       <updated>1720603960745</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Multiple Loop (If and Else)">
+      <option name="closed" value="true" />
+      <created>1720617949707</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1720617949707</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="adding" />
     <MESSAGE value="Calculation + if Else condition" />
     <MESSAGE value="Task_02 on SDET Club" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task_02 on SDET Club" />
+    <MESSAGE value="Multiple Loop (If and Else)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Multiple Loop (If and Else)" />
   </component>
 </project>
