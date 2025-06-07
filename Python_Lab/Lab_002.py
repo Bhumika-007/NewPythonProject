@@ -15,6 +15,7 @@ print(id(add))
 
 
 
+
 # take 2 value from user and concatenate them.
 
 value1 = "Come"
@@ -23,6 +24,11 @@ result = value1+value2
 print(result)
 print(len(result))
 print(id(result))
+value1 = value1.upper()
+print(value1)
+value1 = value1.lower()
+print(value1)
+
 
 
 
