@@ -16,7 +16,7 @@ print(id(add))
 
 
 
-# take 2 value from user and concatenate them.
+# WAP to print and take 2 values from user and concatenate them.
 
 value1 = "Come"
 value2 = "go"
