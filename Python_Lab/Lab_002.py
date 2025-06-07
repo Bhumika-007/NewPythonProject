@@ -29,7 +29,9 @@ value2 = value2.upper()
 print(value1)
 print(value2)
 value1 = value1.lower()
+value2 = value2.lower()
 print(value1)
+print(value2)
 
 
 
