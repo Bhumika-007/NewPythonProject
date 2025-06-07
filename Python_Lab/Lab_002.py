@@ -9,6 +9,9 @@ num2 = int(input("Enter the second number"))
 add = num1+num2
 print(add)
 print(type(add))
+print(id(add))
+
+
 
 
 
@@ -18,6 +21,8 @@ value1 = "Come"
 value2 = "go"
 result = value1+value2
 print(result)
+print(len(result))
+print(id(result))
 
 
 
