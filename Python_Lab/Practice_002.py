@@ -55,6 +55,10 @@ result = addition_of_values(b=25, a=30)
 
 print(result)
 
+#OR
+
+print(addition_of_values(b=25, a=30))
+
 
 #--------------------------------------------------------------------------------
 
